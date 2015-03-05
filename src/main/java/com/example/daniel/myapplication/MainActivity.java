@@ -1,5 +1,5 @@
 //Daniel Nguyen
-//This is my first android app. This is a basic quote application.
+//This is my first android app. This is a basic quote application
 
 package com.example.daniel.myapplication;
 
